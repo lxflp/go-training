@@ -178,6 +178,7 @@ func main() {
 
 	}
 	fmt.Println(users[6])
+
 }
 
 type user struct {
